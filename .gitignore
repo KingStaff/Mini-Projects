@@ -1,0 +1,33 @@
+echo ".vs/
+.vscode/
+bin/
+obj/
+*.log
+*.tmp
+*.cache
+*.config
+*.bak
+*.db
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.class
+*.pyc
+.DS_Store
+node_modules/
+package-lock.json
+.env
+*.zip
+*.tar
+*.rar
+AppData/
+OneDrive/
+Desktop/
+Documents/
+Downloads/
+Pictures/
+Videos/
+Music/
+" > .gitignore
